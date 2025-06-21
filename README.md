@@ -67,13 +67,13 @@ const publicKey = 'TU_PUBLIC_KEY';
 
 | name         | email                  | area     | ubicacion     | funcion           |
 |--------------|------------------------|----------|---------------|--------------------|
-| Juan Venegas | juan@example.com       | Finanzas | Oficina Central | Analista de Datos  |
+| personal | personal@example.com       | Finanzas | Oficina Central | Analista de Datos  |
 
 ### Hoja "Asignaciones"
 
 | id | task              | description         | responsible           | deadline     |
 |----|-------------------|---------------------|------------------------|--------------|
-| 1  | Revisión de gastos| Revisar plan de gasto| juan@example.com       | 2025-06-20   |
+| 1  | Revisión de gastos| Revisar plan de gasto| personal@example.com       | 2025-06-20   |
 
 ---
 
